@@ -10,13 +10,21 @@ Business has settled for what the limitations imposed by *intelligent* individua
 
 I'm not satisfied with the Web. It's just now become hardly better than it was fifteen years ago. Why? Why the hell does it take so long for things like standardized ways of creating, deploying, maintaining and updating web sites? 
 
-Greed and impaticne. 
+Greed and impatience.
 
 Or at least greed and selfishness.
 
 For all the *openness* touted in the Web community, there are hardly a handful of us who actually give a shit about the Web more than we do about getting ours. It's the same as the old-schoolers.
 
-So, here's Consulticus. It's my business. It's my way of approaching problem solving for enterprise web apps and sites.
+So, here's Consulticus. It's my business. It's my way of approaching problem-solving for enterprise web apps and sites.
+
+Consulticus exists to equip your business.
+
+What does that look like? There is no single answer. It depends on what your business needs to do. For example, you may need to break free from the crust common to your industry where, if anyone does use Twitter or Facebook, it's done with a starchy approach attempting transparency and authenticity but looking more like veneer and faux-finish.
+
+## Consulticus Equips You
+You need to know what to do. What to do now and next and forever.
+
 
 
 
