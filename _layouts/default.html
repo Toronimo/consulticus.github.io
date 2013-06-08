@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Consulticus.github.io by consulticus</title>
+    <title>{% if page.title %} {{ page.title }} | {% endif %}Consulticus.github.io by consulticus</title>
 
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/pygment_trac.css">
@@ -20,21 +20,7 @@
         <p class="view"><a href="https://github.com/consulticus">View our GitHub Profile</a></p>
       </header>
       <section>
-        <h3>The New Consultic.us</h3>
-<p>The site is now written locally in iA Writer, outputting markdown, cranked out to a static site with <a href="http://jekyllrb.com/" title="http://jekyllrb.com/">Jekyll</a> and synchronized with Git hosted on <a href="http://pages.github.com/" title="http://pages.github.com/">GitHub Pages</a>.</p>
-
-<p>Badda-boom, Badda-bing!</p>
-
-<h2>What This Means</h2>
-<p>I'm current. I'm cool. I'm not (as) slow as I was when using PHP-based CMS workflows. I no longer need a database to run for a handful of static pages; the equivalent of a gas-guzzling SUV to drive to the mailbox.</p>
-
-<h2>What This Doesn't Mean</h2>
-<p>The new creation and deployment workflow doesn't change the need for proper design. I still like to start in Photoshop (sometimes Illustrator) to create a visual language.</p>
-
-<h3>To Do</h3>
-<ul><li>Get up to speed on <a href="http://jekyllrb.com/docs/usage/0" title="http://jekyllrb.com/docs/usage/0">Jekyll</a>
-</li></ul>
-
+        {{ content }}
       </section>
       <footer>
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
