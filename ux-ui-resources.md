@@ -18,6 +18,8 @@
 1. [Patterntap](http://patterntap.com/)
 
 ## Javascript
+1. [Backbone.js](http://backbonejs.org/)
+2. [Node.js](http://nodejs.org/)
 
 ## Learning Sites
 1. [Peep Code](https://peepcode.com/)
