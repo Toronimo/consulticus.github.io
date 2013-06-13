@@ -11,20 +11,20 @@
 2. [Alistapart.com](http://alistapart.com/)
 
 ## Design Resources
-1. Iconmonstr.com
-2. The Noun Project
+1. [Iconmonstr.com](http://iconmonstr.com/)
+2. [The Noun Project](http://thenounproject.com/)
 
 ## Design Examples
-1. Patterntap
+1. [Patterntap](http://patterntap.com/)
 
 ## Javascript
 
 ## Learning Sites
-1. Peep Code
-2. Lynda.com
-3. Team Treehouse
-4. Codeschool
+1. [Peep Code](https://peepcode.com/)
+2. [Lynda.com](http://www.lynda.com/) Great overall site. Less technical on JS than others, but a great resource for hardly any money.
+3. [Team Treehouse](http://teamtreehouse.com/)
+4. [Codeschool](http://codeschool.com/)
 
 # Exemplary Companies
-1. Viget
+1. [Viget](http://viget.com/) (*be sure to dig into all of their [blogs](http://viget.com/blogs). they're extremely generous.
 2. *more to follow*
