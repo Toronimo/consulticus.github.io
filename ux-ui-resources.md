@@ -9,6 +9,8 @@
 ## Industry Info
 1. [Zeldman.com](http://www.zeldman.com/)
 2. [Alistapart.com](http://alistapart.com/)
+3. [TGD](http://thegreatdiscontent.com/)
+4. [5by5.tv](http://5by5.tv/)
 
 ## Design Resources
 1. [Iconmonstr.com](http://iconmonstr.com/)
@@ -26,6 +28,8 @@
 2. [Lynda.com](http://www.lynda.com/) Great overall site. Less technical on JS than others, but a great resource for hardly any money.
 3. [Team Treehouse](http://teamtreehouse.com/)
 4. [Codeschool](http://codeschool.com/)
+5. [Five Simple Steps](http://www.fivesimplesteps.com/)
+6. [A Book Apart](http://www.abookapart.com/)
 
 # Exemplary Companies
 1. [Viget](http://viget.com/) (*be sure to dig into all of their [blogs](http://viget.com/blogs). they're extremely generous.
